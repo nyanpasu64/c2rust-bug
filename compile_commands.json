@@ -1,0 +1,16 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "--std=c99",
+            "-Wall",
+            "-O3",
+            "-o",
+            "bin/brr_encoder",
+            "src/brr_encoder.c"
+        ],
+        "directory": "/home/nyanpasu64/code/c2rust-bug",
+        "file": "src/brr_encoder.c"
+    }
+]
